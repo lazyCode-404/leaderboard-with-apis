@@ -15,7 +15,7 @@
 - JavaScript
 ## Live Demo (if available)
 
-[Live Demo Link](https://siansandatamara.github.io/leaderboard-with-apis/apis)
+[Live Demo Link](https://siansandatamara.github.io/leaderboard-with-apis)
 
 ## Getting Started
 
