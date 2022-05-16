@@ -16,7 +16,7 @@
 - JavaScript
 ## Live Demo (if available)
 
-[Live Demo Link]https://siansandatamara.github.io/leaderboard-with-apis/
+[Live Demo Link](https://siansandatamara.github.io/leaderboard-with-apis/)
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 ```bash
-git clone//https://github.com/SiansandaTamara/leaderboard-with-apis/
+git clone//https://github.com/SiansandaTamara/leaderboard-with-apis
 cd leaderboard-with -apis
 ```
 
