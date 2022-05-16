@@ -1,1 +1,1 @@
-import './index.cs'
+import './index.css'
