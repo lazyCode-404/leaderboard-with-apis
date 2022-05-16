@@ -31,7 +31,8 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 ```bash
-git clone//
+git clone//https://github.com/SiansandaTamara/leaderboard-with-apis/
+cd leaderboard-with -apis
 ```
 
 ## Authors
