@@ -1,5 +1,4 @@
 # leaderboard-with-apis
-# leaderboard-with-apis
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
