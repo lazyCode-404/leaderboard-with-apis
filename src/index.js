@@ -12,7 +12,7 @@ const postData = () => {
   submitBtn.addEventListener('click', (e) => {
     e.preventDefault();
 
-     fetch(URL, {
+    fetch(URL, {
       method: 'POST',
       body: JSON.stringify({ user: player.value, score: scores.value }),
       headers: {
@@ -42,7 +42,7 @@ const data = async () => {
   const data = await getData();
   const results = data.result;
 
-  results.map((result) => {
+  results.map.await((result) => {
     box.innerHTML
         += `<li>${result.user}:${result.score}</li>`;
   }).join('');
