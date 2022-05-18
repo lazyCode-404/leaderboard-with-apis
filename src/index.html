@@ -14,30 +14,23 @@
             <div class="tabs">
                 <ul class="scores">
                     <li>Recent score</li>
-                    <button class="btn">Refresh</button>
+                    <button class="refreshBtn">Refresh</button>
                 </ul>
                 <div class="results">
-                    <p>Tamara: 100</p>
-                    <p>Tamara: 100</p>
-                    <p>Tamara: 100</p>
-                    <p>Tamara: 100</p>
-                    <p>Tamara: 100</p>
-                    <p>Tamara: 100</p>
-                    <p>Tamara: 100</p>
-                    <p>Tamara: 100</p>
+                   
                 </div>
             </div>
         </div>
         <div class="leaderboard wrap">
             <h4>Add your scores</h4>
             <form>
-                <input type="text" name="name" placeholder="Your name..">
-                <input type="text" name="score" placeholder="Your score..">
-                <input class="btn left-btn" type="submit" value="Submit">
+                <input class="name" type="text" name="name" placeholder="Your name.." required>
+                <input class="score" type="text" name="score" placeholder="Your score.." required>
+                <input class="btn left-btn" id="submit" type="submit" value="Submit">
             </form>
         </div>
         </div>
     </section>
-    
+    <script src="index.js" type="modules"></script>
 </body>
 </html>
