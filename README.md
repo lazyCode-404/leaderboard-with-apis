@@ -13,9 +13,12 @@
 - HTML
 - CSS
 - JavaScript
+- 
 ## Live Demo (if available)
 
+
 [Live Demo Link](https://siansandatamara.github.io/leaderboard-with-apis/dist/index.html)
+
 
 ## Getting Started
 
@@ -30,6 +33,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 ```bash
+
 git clone//https://github.com/SiansandaTamara/leaderboard-with-apis
 cd leaderboard-with -apis
 ```
@@ -58,4 +62,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
+
 This project is [MIT](https://github.com/SiansandaTamara/leaderboard-with-apis/main/LICENSE ) licensed.
+
