@@ -42,7 +42,7 @@ const data = async () => {
   const data = await getData();
   const results = data.result;
 
-  results.map((result) => {
+  results.map.getData((result) => {
     box.innerHTML
         += `<li>${result.user}:${result.score}</li>`;
   }).join('');
