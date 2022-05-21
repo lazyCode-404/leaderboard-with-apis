@@ -32,6 +32,36 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
+
+```bash
+npm install
+```
+
+```bash
+npm build
+```
+
+```bash
+npm start
+```
+
+### Run the following commands to run linter tests
+
+WebHint
+```bash
+npx hint .
+```
+
+StyleLint
+```bash
+npx stylelint "**/*.{css,scss}"
+```
+
+ESLint
+```bash
+npx eslint .
+```
+
 ```bash
 
 git clone//https://github.com/SiansandaTamara/leaderboard-with-apis

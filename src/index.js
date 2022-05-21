@@ -44,7 +44,9 @@ const data = async () => {
 
   results.forEach((result) => {
     box.innerHTML
-        += `<li>${result.user}:${result.score}</li>`;
+        += `<ul class="recent-scores">
+        <li class="score-items">${result.user}:${result.score}</li>
+        </ul>`;
   }).join('');
 };
 
